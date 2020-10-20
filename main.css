@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    background-color: mediumspringgreen;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding-left: 3px;
+    
+
+}
+
+
+
+.items1{
+    
+    background-color: green;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 50px;
+    width: 200px;
+
+}
+
+.items2{
+    background-color: maroon;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 50px;
+    align-items: flex-end;
+    width: 200px;
+    
+}
+
+.items3{
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 50px;
+    width: 200px;
+
+}
+
+
+#footer{
+    position: fixed
+}
